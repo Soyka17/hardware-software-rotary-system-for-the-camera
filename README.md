@@ -1,1 +1,2 @@
 # hardware-software-rotary-system-for-the-camera
+The object of development in this course work is a software and hardware rotary system for a web camera. The purpose of the work is to create a rotating system for the camera, writing and debugging software code to track the face in the frame and rotate the camera to center the face. The results of the work can be used to record online lessons, conferences, and other events where a person changing his position is recorded.
